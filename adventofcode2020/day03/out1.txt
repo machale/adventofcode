@@ -1,0 +1,2 @@
+width 31, height 323
+Encountered 211 trees

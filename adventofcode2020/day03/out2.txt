@@ -1,0 +1,7 @@
+width 31, height 323
+Slope (1 right, 1 down) encountered 67 trees
+Slope (3 right, 1 down) encountered 211 trees
+Slope (5 right, 1 down) encountered 77 trees
+Slope (7 right, 1 down) encountered 89 trees
+Slope (1 right, 2 down) encountered 37 trees
+Product of trees encountered is 3584591857
