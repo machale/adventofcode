@@ -1,0 +1,2 @@
+Succeeded by swapping operation on line 265: 'jmp -29'
+Final value of accumulator is 2001
