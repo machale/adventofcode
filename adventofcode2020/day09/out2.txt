@@ -1,0 +1,6 @@
+*** Day 9 Part 1 ***
+26134589 is not the sum of 2 of the previous 25 numbers
+
+*** Day 9 Part 2 ***
+The contiguous numbers with sum 26134589 are between indices 387 and 403.
+The smallest is 978652, largest is 2556472 and their sum is 3535124
