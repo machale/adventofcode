@@ -29,10 +29,14 @@ function min(accumulator, currentValue)
 
 // Find the start and end indices of contiguous numbers that sum to num
 let findContigSum = function(num) {
+    let sum = 0
     for (let i = 0; i < arr.length - 1; i++) {
         for (let j = i + 1; j < arr.length; j++) {
-            if (arr.slice(i, j+1).reduce(add, 0) === num) {
+            sum = arr.slice(i, j+1).reduce(add, 0)
+            if (sum === num) {
                 return [i, j]
+            } else if (sum > num) { // Doesn't work if negative numbers present
+                break
             }
         }
     }
