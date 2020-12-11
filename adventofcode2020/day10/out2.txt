@@ -1,0 +1,46 @@
+===== Run 1 with Smaller Example Data Set (testdataA.txt) =====
+
+Data Set
+0,1,4,5,6,7,10,11,12,15,16,19,22
+
+*** Day 10 Part 1 ***
+Differences of 1, 2 and 3 jolts: 7,0,5
+Product of 1-jolt and 3-jolt differences: 35
+
+*** Day 10 Part 2 ***
+Found string 0,1
+Found string 4,5,6,7
+  String combos = 4, total combinations so far = 4
+Found string 10,11,12
+  String combos = 2, total combinations so far = 8
+Found string 15,16
+Found string 19
+There are 8 possible combinations of adaptors
+
+===== Run 2 with Larger Example Data Set (testdataB.txt) =====
+
+Data Set
+0,1,2,3,4,7,8,9,10,11,14,17,18,19,20,23,24,25,28,31,32,33,34,35,38,39,42,45,46,47,48,49,52
+
+*** Day 10 Part 1 ***
+Differences of 1, 2 and 3 jolts: 22,0,10
+Product of 1-jolt and 3-jolt differences: 220
+
+*** Day 10 Part 2 ***
+Found string 0,1,2,3,4
+  String combos = 6, total combinations so far = 6
+Found string 7,8,9,10,11
+  String combos = 6, total combinations so far = 36
+Found string 14
+Found string 17,18,19,20
+  String combos = 4, total combinations so far = 144
+Found string 23,24,25
+  String combos = 2, total combinations so far = 288
+Found string 28
+Found string 31,32,33,34,35
+  String combos = 6, total combinations so far = 1728
+Found string 38,39
+Found string 42
+Found string 45,46,47,48,49
+  String combos = 6, total combinations so far = 10368
+There are 10368 possible combinations of adaptors

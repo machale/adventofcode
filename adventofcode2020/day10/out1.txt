@@ -1,0 +1,2 @@
+Differences of 1, 2 and 3 jolts: 69,0,24
+Product of 1-jolt and 3-jolt differences: 1656
